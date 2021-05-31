@@ -1,0 +1,28 @@
+Title: pleats lamp
+
+----
+
+Projectnumber: Pleats paper
+
+----
+
+Projectdescription: Pleated paper that is printed, where the irregularities made while printing are kept. Shaped and held by an aluminium clip. LED strip glued on the inside.
+
+----
+
+Projectyear: 2019
+
+----
+
+Projectimages:
+
+- 001.jpg
+- 001_6.jpg
+- 001_4-copy.jpg
+- 001_3-copy.jpg
+- 001_2.jpg
+- 001_5.jpg
+
+----
+
+Linktitle: pleats-lamp

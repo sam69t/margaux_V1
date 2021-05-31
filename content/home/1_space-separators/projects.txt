@@ -1,0 +1,26 @@
+Title: space separators
+
+----
+
+Projectnumber: Pleats Curtains
+
+----
+
+Projectdescription: The Curtain separates the living or office areas. The Tyvek or cotton are pleated and cords run across its width. These elements act on the overall shape, and create passage ways in the space.
+
+----
+
+Projectyear: 2021
+
+----
+
+Projectimages:
+
+- 002.jpg
+- 002_1.jpg
+- 002_3.jpg
+- 002_2.jpg
+
+----
+
+Linktitle: pleats-curtains

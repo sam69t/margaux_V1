@@ -1,0 +1,33 @@
+title: About
+
+sections:
+  content:
+    type: fields
+    fields:
+      Presentation:
+        label: Presentation
+        type: text
+      Email:
+        label: Email
+        type: text
+      CV:
+        label: CV
+        type: text
+      Experience:
+        label: Experience
+        type: text
+      Education:
+        label: Education
+        type: text
+      Experience:
+        label: Experience
+        type: text
+      Competence:
+        label: Competence
+        type: text
+      Langue:
+        label: Langue
+        type: text
+
+      
+      

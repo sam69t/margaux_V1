@@ -1,0 +1,26 @@
+Title: poubs
+
+----
+
+Projectnumber: Shopping bags
+
+----
+
+Projectdescription: When completed with the shopping bags, the structure becomes a desk basket.
+
+----
+
+Projectyear: 2019
+
+----
+
+Projectimages:
+
+- >
+  capture-decran-2021-05-14-a-17.20.59-copie.jpg
+- >
+  capture-decran-2021-05-14-a-17.21.12-copie.jpg
+
+----
+
+Linktitle: shopping-bags

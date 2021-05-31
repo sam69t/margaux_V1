@@ -1,0 +1,133 @@
+Title: home
+
+----
+
+Prenom: Margaux
+
+----
+
+Nom: Mandrou
+
+----
+
+Naissance: Born in 1997
+
+----
+
+Mail: margaux.mandrou@gmail.com
+
+----
+
+Instagram: https://www.instagram.com/margauxmandrou/
+
+----
+
+Tel: +33 6 77 80 87 87
+
+----
+
+Cv:
+
+- 
+  title: Experience
+  list:
+    - 
+      year: 2020
+      title: Visibility Office
+      type: internship
+      lieux: New York
+      stageurl: https://vsby.co/
+    - 
+      year: 2019
+      title: Julie Richoz
+      type: internship
+      lieux: Paris
+      stageurl: http://www.julierichoz.com/
+    - 
+      year: 2021
+      title: Flex-on
+      type: Free Lance Designer
+      lieux: Pau
+      stageurl: https://www.flex-on.fr/
+- 
+  title: Education
+  list:
+    - 
+      year: 2021
+      title: "Ecole Cantonale d'Arts de Lausanne"
+      type: ""
+      lieux: ""
+      stageurl: https://www.ecal.ch/fr/100/homepage
+    - 
+      year: 2017
+      title: "Ecole supérieur d'Arts et de Design de Saint-Etienne"
+      type: ""
+      lieux: ""
+      stageurl: https://www.esadse.fr/fr/home/
+    - 
+      year: 2016
+      title: Atelier de Sèvres
+      type: ""
+      lieux: Paris
+      stageurl: https://www.atelierdesevres.com/
+    - 
+      year: 2015
+      title: Baccalauréat
+      type: ""
+      lieux: Saint-Joseph, Nay
+      stageurl: ""
+- 
+  title: Software
+  list:
+    - 
+      year: null
+      title: Suite Adobe
+      type: ""
+      lieux: ""
+      stageurl: ""
+    - 
+      year: null
+      title: Rhino
+      type: ""
+      lieux: ""
+      stageurl: ""
+    - 
+      year: null
+      title: SolidWorks
+      type: ""
+      lieux: ""
+      stageurl: ""
+    - 
+      year: null
+      title: ""
+      type: ""
+      lieux: ""
+      stageurl: ""
+- 
+  title: Language
+  list:
+    - 
+      year: null
+      title: Français
+      type: Mother tongue
+      lieux: ""
+      stageurl: ""
+    - 
+      year: null
+      title: Anglais
+      type: Fluent
+      lieux: ""
+      stageurl: ""
+    - 
+      year: null
+      title: ""
+      type: ""
+      lieux: ""
+      stageurl: ""
+- 
+  title: ""
+  list: [ ]
+
+----
+
+Text: Hello

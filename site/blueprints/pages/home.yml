@@ -1,0 +1,80 @@
+title: Home
+unlisted: true
+columns:
+  left:
+    width: 1/2
+    sections:
+      presentation:
+        headline: SEO
+        type: fields
+        fields:
+          prenom:
+            label: Prenom
+            type: text
+            width: 1/2
+          nom:
+            label: Nom
+            type: text
+            width: 1/2
+          naissance:
+            label: Date de Naissance
+            type: text
+            width: 1/1
+          mail:
+            label: Mail
+            type: text
+            width: 1/2
+          instagram:
+            label: Instagram
+            type: text
+            width: 1/2
+          tel:
+            label: Telephone
+            type: tel
+            width: 1/2
+
+      drafts:
+        headline: Drafts Project
+        type: pages
+        status: draft
+        templates: projects
+
+      published:
+        headline: Published Project
+        type: pages
+        status: listed
+        templates: projects
+  right:
+    width: 1/2
+    sections:
+      cv:
+        headline: SEO
+        type: fields
+        fields:
+          cv:
+            label: Curriculum
+            type: structure
+            fields:
+              title:
+                type: text
+              list:
+                type: structure
+                fields:
+                  year:
+                    type: number
+                    width: 1/2
+                  title:
+                    type: text
+                    width: 1/2
+                  type:
+                    type: text
+                    width: 1/2
+                  lieux:
+                    type: text
+                    width: 1/2
+                  stageURL:
+                    type: url
+                    width: 1/2
+      IconWebsite:
+        type: files
+        width: 1/2

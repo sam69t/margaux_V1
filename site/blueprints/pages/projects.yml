@@ -1,0 +1,22 @@
+title: Page
+unlisted: false
+sections:
+  projectInfos:
+    type: fields
+    fields:
+      ProjectNumber:
+        label: Numéro du projet
+        type: text
+      ProjectDescription:
+        label: Description du projet
+        type: text
+      ProjectYear:
+        label: Année
+        type: number
+        display: YYYY
+      ProjectImages:
+        label: Photos du projet
+        type: files
+      LinkTitle:
+        label: Tag du projet
+        type: text

@@ -1,0 +1,318 @@
+@font-face {
+  font-family: "BradfordLL-Light";
+  src: url("../font/BradfordLL-Light.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "BradfordLL-LightItalic";
+  src: url("../font/BradfordLL-LightItalic.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "BradfordLL-Regular";
+  src: url("../font/BradfordLL-Regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "BradfordLL-Regular";
+  src: url("../font/BradfordLL-Regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "HaasGrotDisp";
+  src: url("../font/HaasGrotDisp-55Roman.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Basel";
+  src: url("../font/Basel-Medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Times Now Light";
+  src: url("../font/Times Now Light.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+body {
+  overflow: hidden !important;
+  font-family: "Basel";
+  margin: 0px;
+  letter-spacing: -0.1px;
+  font-size: 1em !important;
+}
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.children-carousel-cell {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: black;
+  transition: color 0.2s ease-in-out;
+}
+
+.main-carousel .is-selected .children-carousel-cell {
+  color: white;
+}
+
+.children-carousel-cell img {
+  max-width: 100%;
+  max-height: auto;
+}
+#CV {
+  position: absolute;
+  bottom: 0px;
+  height: 100vh;
+  width: 100%;
+  /* background-color: rgba(255,255,255,0.65); */
+  display: none;
+
+  /* padding-bottom: 80vh; */
+  z-index: 1;
+  line-height: -10px;
+}
+.credit {
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  font-size: 0.6em;
+  position: absolute;
+  z-index: 100000;
+}
+
+.color {
+  color: black !important;
+}
+.cv-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+span.credit {
+  font-size: 0.8em !important;
+}
+
+.cv-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.background-blur {
+  position: absolute;
+  cursor: crosshair;
+  width: 100%;
+  height: 100%;
+  bottom: 0px;
+  padding-left: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  /* background-color: rgba(255,255,255,0.1); */
+
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  z-index: -1;
+}
+
+a#toggle {
+  /* opacity:0.6; */
+  /* background-color: rgb(255, 246, 200); */
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+}
+a#toggle:hover {
+  opacity: 1;
+  cursor: help;
+}
+.carousel {
+  background: #fafafa;
+}
+
+.main-carousel {
+  height: 100vh;
+  width: 100vw;
+}
+
+.main-carousel-cell {
+  overflow: hidden;
+  width: 40.3333vw; /* full width */
+  height: 100vh;
+  /* center images in cells with flexbox */
+}
+
+a.footer:hover {
+  opacity: 1;
+}
+
+#toggle {
+  z-index: 100;
+}
+
+a.footer:hover {
+  opacity: 1;
+}
+.footer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  height: 30px;
+  padding-bottom: 10px;
+  flex-direction: column;
+  align-items: center;
+  /* backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px); */
+  position: fixed;
+  z-index: 10000;
+  bottom: 0;
+  opacity: 1;
+}
+
+.static-banner {
+  position: absolute;
+  z-index: 100;
+  display: flex;
+  /* backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+
+  background-color: rgba(255, 255, 255, 0.05); */
+  justify-content: left;
+  align-items: center;
+  overflow: hidden;
+
+  width: 100%;
+}
+.project-text {
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+  font-size: 1em;
+  padding: 10px;
+  width: 100%;
+
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  background-color: rgba(255, 255, 255, 0.2);
+  transition: 0.5s;
+}
+.project-text:hover {
+  /* background-color: rgba(75, 75, 75, 0.4);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  color: white;
+  transition: 0.2s; */
+}
+
+.addgray {
+  /* background-color: rgba(75, 75, 75, 0.4); */
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  /* color: white; */
+  transition: 0.5s;
+}
+
+.description-project span {
+}
+.blurry {
+  background-color: rgba(255, 255, 255, 0) !important;
+  backdrop-filter: blur(20px) !important;
+
+  -webkit-backdrop-filter: blur(20px) !important;
+}
+.slider-box {
+  /* text-indent: 2vw; */
+  line-height: 18px;
+  display: none;
+  padding-top: 1.9vh;
+  width: 95%;
+}
+.title-project {
+  display: flex;
+  width: 100%;
+  height: 1vh;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none !important;
+}
+
+.grey {
+  color: rgb(255, 255, 227);
+}
+
+.carousel-project:before {
+  /* display: block;
+  text-align: center;
+  content: counter(carousel-project);
+  font-size: 80px;
+  margin-left: 100px;
+  color: white; */
+}
+
+.cv-presentation {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1.5vw;
+}
+
+.section-curriculum {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding-left: 0.7vw;
+  padding-top: 1vh;
+}
+
+.year {
+  padding-right: 1vw;
+}
+.reveal {
+  /* display: block !important; */
+}
+
+.overflow {
+  overflow: visible !important;
+}
+.italic {
+  font-family: "BradfordLL-LightItalic";
+}
+.plus {
+  cursor: pointer;
+  transition: 0.4s;
+  font-size: 1.7em;
+}
+.static-banner {
+  cursor: pointer;
+}
+
+.rotatePlus {
+  /* transform: rotate(45deg);
+  transition: 0.4s; */
+}
+.rotatePlus2 {
+  transform: rotate(60deg);
+  transition: 0.4s;
+}
+.wow {
+  padding-top: 2vh;
+  display: flex;
+  flex-direction: column;
+}

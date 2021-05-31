@@ -1,0 +1,25 @@
+Title: tabloe with pockets
+
+----
+
+Projectnumber: Bedside pockets
+
+----
+
+Projectdescription: Drawers are converted into pockets in this bedside table. Instead of having mess on the top of the table you can hide it in the pockets.
+
+----
+
+Projectyear: 2020
+
+----
+
+Projectimages:
+
+- 006_5.jpg
+- 006_3.jpg
+- 006.jpg
+
+----
+
+Linktitle: beside-pockets

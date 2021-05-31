@@ -1,0 +1,28 @@
+Title: jewellry with heat-shrinkable tubing
+
+----
+
+Projectnumber: Jewelry
+
+----
+
+Projectdescription: Heat shrink tubings became ornaments and joints for jewelry, in collaboration with Astrid Durand, Sarah Santos, Victor Jacquard.
+
+----
+
+Projectyear: 2020
+
+----
+
+Projectimages:
+
+- 005_1.jpg
+- 005_2.jpg
+- 005_6.jpg
+- 005_5.jpg
+- 005_4.jpg
+- 005_3.jpg
+
+----
+
+Linktitle: jewelry

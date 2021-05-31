@@ -1,0 +1,25 @@
+Title: door bell
+
+----
+
+Projectnumber: Vibra door bell
+
+----
+
+Projectdescription: Its mechanism is inspired by the Vibra-tone instrument which uses the split aluminium tube to resonate.
+
+----
+
+Projectyear: 2019
+
+----
+
+Projectimages:
+
+- 007.jpg
+- 007_1.jpg
+- 007_2.jpg
+
+----
+
+Linktitle: vibra-door-bell

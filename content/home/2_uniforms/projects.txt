@@ -1,0 +1,28 @@
+Title: uniforms for museum
+
+----
+
+Projectnumber: Museum uniforms
+
+----
+
+Projectdescription: These uniformes were thought of and created for the future Mudac Museum in Lausanne. I imagined a jacket with amovible top parts. These top parts exist in five colors which are each attributed to different functions within the museum.
+
+----
+
+Projectyear: 2020
+
+----
+
+Projectimages:
+
+- 004_11.jpg
+- 004_2.jpg
+- 004_5.jpg
+- 004_4.jpg
+- 004_3.jpg
+- 004_22.jpg
+
+----
+
+Linktitle: museum-uniforms
